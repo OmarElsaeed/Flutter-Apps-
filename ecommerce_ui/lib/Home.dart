@@ -18,7 +18,7 @@ class _HomeState extends State<Home> {
   ];
 
  List items = [
-     { "title": "Wireless Headphone", "iconName": Icons.headphones, "description": "Headphone Fine Good", "price": "\$350"},
+     { "title": "Headphone", "iconName": Icons.headphones, "description": "Headphone Fine Good", "price": "\$350"},
      { "title": "Watch", "iconName": Icons.watch, "description": "Watch Fine Good", "price": "\$200"},
      { "title": "Car", "iconName": Icons.car_rental_sharp, "description": "Car Fine Good", "price": "\$1000"},
      { "title": "Car", "iconName": Icons.car_rental_sharp, "description": "Car Fine Good", "price": "\$200"},

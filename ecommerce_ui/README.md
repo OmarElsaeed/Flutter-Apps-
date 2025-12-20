@@ -1,16 +1,18 @@
-# ecommerce_app
+# ecommerce_ui
 
-A new Flutter project.
+Eccomrece app ui, built in flutter. inspired by a youtube turorial to practice UI layouts 
 
-## Getting Started
+## 📱 Screenshots
 
-This project is a starting point for a Flutter application.
+| Home Screen | Product Details 
+|:---:|:---:|
+| <img src="resources/home.png" width="200"> | <img src="resources/details.png" width="200">
 
-A few resources to get you started if this is your first Flutter project:
+## 🎬 Demo
+Representing the app flow:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<p align="center">
+  <img src="resources/demo.gif" alt="App Demo" width="250">
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
